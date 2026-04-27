@@ -1,0 +1,239 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Chasidy Moore - Operations Resume</title>
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    margin: 40px;
+    background-color: #f4f6f9;
+    color: #333;
+}
+
+.container {
+    max-width: 950px;
+    margin: auto;
+    background: white;
+    padding: 30px;
+    border-radius: 10px;
+    box-shadow: 0 4px 12px rgba(0,0,0,0.1);
+}
+
+.header {
+    display: flex;
+    align-items: center;
+}
+
+.header img {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin-right: 20px;
+}
+
+.name {
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.contact {
+    color: #555;
+}
+
+.section {
+    margin-top: 25px;
+}
+
+.links span {
+    margin-right: 25px;
+    color: #0077cc;
+    cursor: pointer;
+    position: relative;
+    font-weight: bold;
+}
+
+.dropdown {
+    display: none;
+    position: absolute;
+    background: #fff;
+    border: 1px solid #ccc;
+    padding: 15px;
+    width: 300px;
+    top: 25px;
+    left: 0;
+    z-index: 10;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+.links span:hover .dropdown {
+    display: block;
+}
+
+ul {
+    padding-left: 18px;
+}
+
+.quote {
+    margin-top: 40px;
+    font-style: italic;
+    text-align: center;
+}
+
+h3 {
+    border-bottom: 2px solid #eee;
+    padding-bottom: 5px;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<!-- Header -->
+<div class="header">
+    <img src="headshot.jpg" alt="Headshot">
+    <div>
+        <div class="name">Chasidy Moore</div>
+        <div class="contact">cmooresmile@gmail.com</div>
+    </div>
+</div>
+
+<!-- Personal Statement -->
+<div class="section">
+<p>
+Operations and Warehouse Supervisor with experience in high-volume distribution environments supporting inventory control, production flow, and dispatch coordination. Proven ability to lead shift operations, supervise teams, and ensure accurate receiving, picking, and shipping processes. Skilled in KPI management, safety compliance, and process improvement to drive efficiency, reduce errors, and maintain service standards in fast-paced logistics and food distribution environments.
+</p>
+</div>
+
+<!-- Core Competencies -->
+<div class="section">
+<h3>Core Competencies</h3>
+<p>
+Warehouse Operations Management • Distribution Center Operations • Inbound / Outbound Logistics • Order Picking, Packing & Staging • Inventory Control • Inventory Accuracy • OSHA & Safety Compliance • Team Leadership • Workforce Planning • KPI Tracking • Process Improvement • Lean Operations • Dispatch Coordination • Cross-Functional Communication • Warehouse Management Systems (WMS)
+</p>
+</div>
+
+<!-- Interactive Links -->
+<div class="section links">
+
+<span>Skills
+<div class="dropdown">
+<ul>
+<li>Operations Management</li>
+<li>Warehouse & Distribution Operations</li>
+<li>Inventory Control & Cycle Counting</li>
+<li>Supply Chain Coordination</li>
+<li>KPI Tracking & Performance Metrics</li>
+<li>Lean / Continuous Improvement</li>
+<li>Root Cause Analysis</li>
+<li>WMS Systems</li>
+<li>Production & Maintenance Planning</li>
+<li>Team Leadership</li>
+<li>Workflow Optimization</li>
+<li>Quality Control</li>
+</ul>
+</div>
+</span>
+
+<span>Career Accomplishments
+<div class="dropdown">
+<ul>
+<li>Maintained 98–99% inventory accuracy through cycle counting</li>
+<li>Reduced discrepancies by 20%+ using root cause analysis</li>
+<li>Improved team productivity by 15%+ through workflow optimization</li>
+<li>Coordinated inbound/outbound operations in high-volume environment</li>
+<li>Reduced downtime through improved maintenance coordination</li>
+<li>Strengthened cross-functional operational efficiency</li>
+</ul>
+</div>
+</span>
+
+<span>My Strategy
+<div class="dropdown">
+<ul>
+<li><strong>30 Days:</strong> Learn workflows, assess KPIs, build team relationships</li>
+<li><strong>60 Days:</strong> Implement quick wins and improve inefficiencies</li>
+<li><strong>90 Days:</strong> Optimize performance and establish scalable systems</li>
+</ul>
+</div>
+</span>
+
+</div>
+
+<!-- Education -->
+<div class="section">
+<h3>Education</h3>
+
+<p><strong>Kennesaw State University Honors College</strong><br>
+Magna Cum Laude, Bachelor’s in Criminal Law and Procedure (2019–2022)</p>
+
+<p><strong>Georgia Military College</strong><br>
+Cum Laude, Associate’s in Leadership and Development (2019–2020)</p>
+
+</div>
+
+<!-- Experience -->
+<div class="section">
+<h3>Professional Experience</h3>
+
+<p><strong>McMaster-Carr</strong> (2023–Present)</p>
+
+<p><strong>Inventory & Accuracy Supervisor</strong></p>
+<ul>
+<li>Supervised receiving, inventory control, picking, and outbound staging</li>
+<li>Maintained 98–99% inventory accuracy in high-volume environment</li>
+<li>Monitored KPIs including productivity and accuracy</li>
+<li>Led team performance and improved operational efficiency</li>
+<li>Ensured safety compliance and operational standards</li>
+<li>Implemented process improvements reducing recurring issues</li>
+</ul>
+
+<p><strong>Maintenance & Production Dispatch</strong></p>
+<ul>
+<li>Coordinated production and maintenance schedules</li>
+<li>Improved dispatch efficiency and workflow communication</li>
+<li>Acted as liaison between operations and maintenance teams</li>
+<li>Reduced downtime through proactive coordination</li>
+</ul>
+
+</div>
+
+<!-- Operations Impact -->
+<div class="section">
+<h3>Operations Impact</h3>
+<ul>
+<li>Experience in high-volume, fast-paced distribution environments</li>
+<li>Strong ability to manage workflow, labor, and operational priorities</li>
+<li>Consistent focus on accuracy, productivity, and efficiency</li>
+</ul>
+</div>
+
+<!-- References -->
+<div class="section">
+<h3>References</h3>
+<p>Jennifer Lundy – 229-200-6346</p>
+<p>Patricia Wilson – 321-210-8505</p>
+</div>
+
+<!-- Quote -->
+<div class="quote">
+“A great leader builds systems, develops people, and delivers results consistently.”
+</div>
+
+<!-- Hidden ATS Keywords -->
+<div style="display:none;">
+Operations Manager, Warehouse Supervisor, Distribution Supervisor, Logistics Coordinator,
+Inventory Manager, Supply Chain Operations, Lean Manufacturing, Six Sigma, KPI Reporting,
+Workforce Management, Fulfillment Operations, Process Optimization
+</div>
+
+</div>
+
+</body>
+</html>
